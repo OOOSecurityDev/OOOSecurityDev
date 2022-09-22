@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @OOOSecurityDev
-- 👀 I’m interested in both hacking and Computer Programming
+- 👋 Hi, I’m David Patrick A.K.A. @OOOSecurityDev
+- 👀 I’m interested in both Ethical hacking and Computer Programming
 - 🌱 I’m currently learning some Computer Programming Languages  and Ethical Hacking.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Developers
 - 📫 How to reach me ...
 
 <!---
